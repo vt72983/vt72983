@@ -8,10 +8,6 @@
 
 ---
 
-<a href="https://vt72983.github.io/vt72983/">
-  <img src="https://raw.githubusercontent.com/vt72983/vt72983/main/a.png" alt="My Interactive Portfolio">
-</a>
-
 <div align="center">
 
 ## 🚀 [Visit My Interactive Portfolio](https://vt72983.github.io/vt72983/) 🚀

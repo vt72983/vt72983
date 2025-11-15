@@ -16,7 +16,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 <p>
 I specialize in security analysis of web applications, network security, mobile security, IoT security, Reverse Engineering, and many other areas. I am constantly learning new attack vectors and countermeasures to protect data and infrastructure.
@@ -31,7 +31,7 @@ I specialize in security analysis of web applications, network security, mobile 
 
 ---
 
-### 🛠️ My Tech Stack & Tools
+### My Tech Stack & Tools
 
 Here are some of the technologies and tools I'm proficient with:
 
@@ -59,7 +59,7 @@ Here are some of the technologies and tools I'm proficient with:
 
 ---
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vt72983&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="vt72983's GitHub Stats"/>
@@ -72,6 +72,6 @@ Here are some of the technologies and tools I'm proficient with:
 
 <p align="center">
   <a href="mailto:vt72983@bugcrowdninja.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://t.me/Channel_vt729830"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/vt729830"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://app.hackthebox.com/users/1501105"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"></a>
 </p>

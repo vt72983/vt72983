@@ -6,7 +6,7 @@
 
 </div>
 
-<br> <img src="baner.jpg" height="1000">
+<br> <img src="banner_v3.jpg" height="1000">
 
 ---
 
